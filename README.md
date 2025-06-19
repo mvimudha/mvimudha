@@ -27,7 +27,6 @@ A passionate engineering student currently pursuing a **B.Tech in Robotics and A
 - Sharpening AI/ML and system integration skills  
 - Building impactful final-year projects  
 - Preparing for software/AI roles in robotics-based companies  
-- Exploring master's programs in intelligent systems or robotics  
 
 
 ## 📫 Let's Connect
